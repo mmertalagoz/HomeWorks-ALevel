@@ -1,0 +1,34 @@
+#links {
+	display: flex;
+	flex-direction: column;
+}
+
+.textOn {
+	color: green;
+}
+.textOff {
+	display: none;
+}
+
+#inp {
+	height: 40px;
+	font-size: 30px;
+}
+
+#btn7 {
+	background-color: #deb887;
+	width: 100px;
+	height: 40px;
+	border-radius: 20px;
+	font-size: 20px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+
+#circle {
+	background: red;
+	width: 100px;
+	height: 100px;
+	margin-top: 35px;
+	border-radius: 50%;
+}
